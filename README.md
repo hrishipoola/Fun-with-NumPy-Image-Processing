@@ -1,1 +1,3 @@
-# Fun-with-NumPy-Image-Processing
+# Fun with NumPy: Image Processing
+
+Today, let's do something fun. We've traditionally used Numpy to work with math operations and arrays. Numpy arrays can also be thought of as representations of images as arrays of pixels represented by 8-bit integers. Black-and-white images are simple 2-dimensional arrays with integers ranging from 0 (black) to 255 (white). Color images are 3-dimensional arrays where each pixel is a vector of values for red, green, and blue. Let's take an image of a random handsome chap. After converting it to a numpy array, we can edit it using numpy functions and methods and render and display images using Python Image Library (PIL). The purpose is to show a fun way to demonstrate simple numpy multi-dimensional arrays functions annd methods using arrays as an abstraction for images. Let's dive in.
